@@ -1,7 +1,7 @@
 # 👋 Hi, I'm RAGUL (@raxxcraft)
 
 ##  About Me
--  Third-year Computer Science Engineering student at Loyola Institute of Technology
+-  Final-year Computer Science Engineering student at Loyola Institute of Technology
 -  Passionate about web development, backend engineering, and cloud computing
 -  Exploring AI integration into full-stack development
 
