@@ -7,7 +7,8 @@
 
 ##  Tech Stack
 -  **Frontend:** HTML, CSS (Flexbox, Grid), JavaScript
--  **Backend:** Java, Spring Boot (exploring), e-commerce systems
+-  **Backend:** Python,Java, Spring Boot (exploring)
+-  **DataBase:** MySql
 
 ## Currently Learning
 -  Advanced CSS techniques (Grid, Flexbox)
