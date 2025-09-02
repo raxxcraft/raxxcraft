@@ -20,7 +20,7 @@
 -  Responsive UI/UX design enhancements
 
 ##  How to Reach Me
-- [www.linkedin.com/in/raguls21](#) | [GitHub](https://github.com/raxxcraft) | [ragulsankar16@gmail.com](#)
+- [www.linkedin.com/in/raguls21](#) | [GitHub](https://github.com/raxxcraft) | [ragulsankar16@gmail.com](#) | [Portfolio] (https://ragulsankar.netlify.app/)
 
 ##  Fun Fact
 I love refining workflows and optimizing system commands for efficiency!
