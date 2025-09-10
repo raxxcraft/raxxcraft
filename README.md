@@ -14,13 +14,13 @@ Skilled in designing efficient software systems, solving complex problems, and d
     <tr>
       <td align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-          <img src="https://raw.githubusercontent.com/raxxcraft/REPO_NAME/main/skills/HTML5.png" width="50" alt="HTML"/>
+          <img src="https://raw.githubusercontent.com/raxxcraft/REPO_NAME/main/skills/HTML5.png" width="50" />
         </a>
         <br/>HTML
       </td>
       <td align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-          <img src="https://raw.githubusercontent.com/raxxcraft/REPO_NAME/main/skills/CSS3.png" width="50" alt="CSS"/>
+          <img src="https://raw.githubusercontent.com/raxxcraft/REPO_NAME/main/skills/CSS3.png" width="50" />
         </a>
         <br/>CSS
       </td>
