@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Spring+Boot+Specialist;React+UI+Designer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Spring+Boot+Specialist;React+UI+Designer;AI%2FML+Engineer;Data+Science+Explorer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RagulSankar&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ragul-sankar/)
