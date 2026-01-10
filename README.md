@@ -95,7 +95,7 @@ I focus on **clean architecture, responsive UI design**, and **seamless API inte
 
 ## 📫 How to Reach Me
 
-- 🌐 [Portfolio](https://ragulsankar.netlify.app)
+- 🌐 [Portfolio](https://ragulsankar.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/raguls21)
 - 🐙 [GitHub](https://github.com/raxxcraft)
 - 📧 ragulsankar16@gmail.com
